@@ -1,4 +1,4 @@
-# Goliath-Terminal
+# Goliath Terminal
 Convenience Java class for executing CLI commands
 ---
 ## Features
